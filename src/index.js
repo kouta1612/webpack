@@ -1,3 +1,2 @@
-import { hello } from './sub';
-
-hello();
+import "bootstrap/dist/css/bootstrap.min.css";
+import "bootstrap";
